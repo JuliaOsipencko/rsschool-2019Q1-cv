@@ -26,7 +26,7 @@ In the course of this work, multithreading was used, as well as JavaFX.:
 
 * [Drive Google](https://drive.google.com/open?id=1nwtJVgtDHTHhvAxN8J5HYi5KtIezVyb9). 
 
-##Technical Experience
+## Technical Experience
 --------------------
 
 ### Programming Languages
@@ -39,7 +39,7 @@ In the course of this work, multithreading was used, as well as JavaFX.:
 :   Deep knowledge of **HTML**, **CSS**
 
 
-##Extra Section
+## Extra Section
 ----------------------------------------
 
 * Human Languages:
