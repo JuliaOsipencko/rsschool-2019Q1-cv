@@ -1,8 +1,8 @@
 # Julia Osipenko
 
-Yakub Kolos street 28          julia.osipencko@gmail.com
-Minsk                         
-Belarus                        +375447177699
+Yakub Kolos street 28, Minsk, Belarus
+julia.osipencko@gmail.com
++375447177699
 
 ## Education
 
