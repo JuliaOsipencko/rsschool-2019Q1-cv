@@ -1,21 +1,16 @@
 # Julia Osipenko
-==============
 
----------------------     ------------------------------
 Yakub Kolos street 28          julia.osipencko@gmail.com
 Minsk                         
 Belarus                        +375447177699
----------------------     ------------------------------
 
 ## Education
----------
 
 2016-2020
 :   **BSc, Information systems and technologies (in logistics)**; 
     BSUIR (Minsk)
 
 ## Experience
-----------
 
 **My Most Recent Work Experience:**
 
@@ -27,7 +22,6 @@ In the course of this work, multithreading was used, as well as JavaFX.:
 * [Drive Google](https://drive.google.com/open?id=1nwtJVgtDHTHhvAxN8J5HYi5KtIezVyb9). 
 
 ## Technical Experience
---------------------
 
 ### Programming Languages
 :   **Java** Have experience in writing laboratory work and coursework.
@@ -40,7 +34,6 @@ In the course of this work, multithreading was used, as well as JavaFX.:
 
 
 ## Extra Section
-----------------------------------------
 
 * Human Languages:
 
