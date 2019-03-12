@@ -1,0 +1,59 @@
+main{
+    display: grid;
+    grid-template-columns: 1fr 1000px 1fr;
+    grid-template-rows: auto;
+    grid-template-areas:
+            ". head  ."
+            ". content ."
+            ". foot  .";
+
+    font-family: 'Lato', sans-serif;
+}
+
+header{
+    grid-area: head;
+}
+
+article{
+    position: relative;
+    grid-area: content;
+}
+
+footer{
+    grid-area: foot;
+    margin-bottom: 30px;
+}
+
+.name {
+    border-bottom: 1px solid #9d9d9d;
+}
+
+.label {
+    margin-bottom: 5px;
+}
+
+h3{
+    margin-top: 10px;
+    margin-bottom: 30px;
+
+    font-size: 17px;
+    font-weight: normal;
+}
+
+li > h3{
+    margin-bottom: -5px;
+
+    font-weight: normal;
+}
+
+ul{
+    margin-bottom: 35px;
+}
+
+.click{
+    text-decoration: none;
+}
+
+.click:hover{
+    color: #807d1b;
+}
